@@ -1,0 +1,12 @@
+[submodule "commun.contracts"]
+	path = commun.contracts
+	url = git@github.com:cyberway/commun.contracts.git
+[submodule "golos.contracts"]
+	path = golos.contracts
+	url = git@github.com:cyberway/golos.contracts.git
+[submodule "cyberway.contracts"]
+	path = cyberway.contracts
+	url = git@github.com:cyberway/cyberway.contracts.git
+[submodule "cyberway"]
+	path = cyberway
+	url = git@github.com:cyberway/cyberway.git
