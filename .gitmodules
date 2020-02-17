@@ -1,0 +1,3 @@
+[submodule "cyberway"]
+	path = cyberway
+	url = git@github.com:cyberway/cyberway.git
