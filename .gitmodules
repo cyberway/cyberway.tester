@@ -1,0 +1,9 @@
+[submodule "cyberway"]
+	path = cyberway
+	url = git@github.com:cyberway/cyberway.git
+[submodule "cyberway.cdt"]
+	path = cyberway.cdt
+	url = git@github.com:cyberway/cyberway.cdt.git
+[submodule "cyberway.contracts"]
+	path = cyberway.contracts
+	url = git@github.com:cyberway/cyberway.contracts.git
