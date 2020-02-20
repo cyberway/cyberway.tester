@@ -1,4 +1,4 @@
 steps:
 
     - label: ":pipeline: Upload pipeline"
-      command: .buildkite/pipeline.sh | buildkite-agent pipeline upload
+      command: .buildkite/pipeline.sh | tee /dev/tty | buildkite-agent pipeline upload
