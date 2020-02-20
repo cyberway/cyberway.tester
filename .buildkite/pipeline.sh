@@ -30,7 +30,7 @@ for project in "${projects[@]}"; do
     echo "              CW_TAG: \"$cw_revision\""
     echo "              SYSTEM_CONTRACTS_TAG: \"$cw_contracts_revision\""
     echo "          commit: \"$project_revision\""
-    echo "          message: ${BUILDKITE_MESSAGE}"
+    echo "          message: \"${BUILDKITE_MESSAGE}\""
     echo "          branch: \"$project_revision\""
     echo "    - wait"
 done
