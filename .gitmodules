@@ -7,3 +7,6 @@
 [submodule "cyberway.contracts"]
 	path = cyberway.contracts
 	url = git@github.com:cyberway/cyberway.contracts.git
+[submodule "golos.contracts"]
+	path = golos.contracts
+	url = git@github.com:cyberway/golos.contracts.git
