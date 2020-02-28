@@ -5,7 +5,7 @@ projects=("cyberway":"build-only-cyberway-image" \
           "cyberway.contracts":"create-cyberway-dot-contracts-image" \
           "cyberway":"test-only-cyberway-image"
 #          "commun.contracts":"create-commun-dot-contracts" \
-#          "golos.contracts":"create-golos-dot-contracts-image" \
+          "golos.contracts":"create-golos-dot-contracts-image" \
           )
 
 cdt_revision=$(git -C "cyberway.cdt" rev-parse HEAD)
