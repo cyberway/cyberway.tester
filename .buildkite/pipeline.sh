@@ -4,7 +4,7 @@ projects=("cyberway":"build-only-cyberway-image" \
           "cyberway.cdt":"create-cdt-image" \
           "cyberway.contracts":"create-cyberway-dot-contracts-image" \
           "cyberway":"test-only-cyberway-image"
-#          "commun.contracts":"create-commun-dot-contracts" \
+          "commun.contracts":"create-commun-dot-contracts" \
           "golos.contracts":"create-golos-dot-contracts-image" \
           )
 
